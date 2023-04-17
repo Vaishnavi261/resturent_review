@@ -1,1 +1,2 @@
 # restaurant_review
+This project involves utilizing Python programming language to conduct a sentiment analysis of restaurant reviews. The first step of the project is to extract data from a TSV file, which is then processed to remove any irrelevant information or noise. Next, a bag-of-words model is created from the preprocessed text data. Finally, a machine learning classifier is trained to evaluate and classify the sentiment of the reviews as either positive or negative.
